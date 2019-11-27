@@ -1,0 +1,3 @@
+http://localhost:80/springboot/druid/sql.html 这个是sql监控的
+http://localhost:80/springboot/swagger-ui.html 这个是API的文档
+启动了~搞快
